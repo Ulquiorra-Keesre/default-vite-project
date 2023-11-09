@@ -63,7 +63,9 @@ export const Home  = () => {
                             _hover={ {
                                 background: 'red.600',
                             }}
-                        ></Button>
+                        >
+                            Удалить
+                        </Button>
                     </ListItem>    
                 ))}
             </List>
